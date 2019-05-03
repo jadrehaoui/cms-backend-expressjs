@@ -1,0 +1,86 @@
+{"error":"user does not have priviledges to add","saved_in":"log files","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"id":"5caaa81425882846350a1a3d","username":"jadrehaoui"}}}
+Date: 11/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log files","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"id":"5caaa81425882846350a1a3d","username":"jadrehaoui"}}}
+Date: 11/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log files","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"id":"5caaa81425882846350a1a3d","username":"jadrehaoui"}}}
+Date: 11/04/2019
+{"error":"Sign in required to add","saved_in":"log files","reviewed":false,"status":401,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true}}}
+Date: 11/04/2019
+{"error":"Sign in required to add","saved_in":"log_file.txt","reviewed":false,"status":401,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true}}}
+Date: 11/04/2019
+{"error":"Sign in required to add","saved_in":"log_file.txt","reviewed":false,"status":401,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true}}}
+Date: 11/04/2019
+{"error":"Sign in required to add","saved_in":"log_file.txt","reviewed":false,"status":401,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true}}}
+Date: 11/04/2019
+{"error":{"errors":{"createdBy.username":{"message":"Path `createdBy.username` is required.","name":"ValidatorError","properties":{"message":"Path `createdBy.username` is required.","type":"required","path":"createdBy.username"},"kind":"required","path":"createdBy.username"},"createdBy.id":{"message":"Path `createdBy.id` is required.","name":"ValidatorError","properties":{"message":"Path `createdBy.id` is required.","type":"required","path":"createdBy.id"},"kind":"required","path":"createdBy.id"}},"_message":"user validation failed","message":"user validation failed: createdBy.username: Path `createdBy.username` is required., createdBy.id: Path `createdBy.id` is required.","name":"ValidationError"},"status":500,"saved_in":"log_file.txt","reviewed":false,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true}}}
+Date: 11/04/2019
+{"error":{"errors":{"createdBy.username":{"message":"Path `createdBy.username` is required.","name":"ValidatorError","properties":{"message":"Path `createdBy.username` is required.","type":"required","path":"createdBy.username"},"kind":"required","path":"createdBy.username"},"createdBy.id":{"message":"Path `createdBy.id` is required.","name":"ValidatorError","properties":{"message":"Path `createdBy.id` is required.","type":"required","path":"createdBy.id"},"kind":"required","path":"createdBy.id"}},"_message":"user validation failed","message":"user validation failed: createdBy.username: Path `createdBy.username` is required., createdBy.id: Path `createdBy.id` is required.","name":"ValidationError"},"status":500,"saved_in":"log_file.txt","reviewed":false,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true}}}
+Date: 11/04/2019
+{"error":"Sign in required to add","saved_in":"log_file.txt","reviewed":false,"status":401,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true}}}
+Date: 11/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"undefined to add","saved_in":"log_file.txt","reviewed":false,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"undefined to add","saved_in":"log_file.txt","reviewed":false,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"Sign in required to add","saved_in":"log_file.txt","reviewed":false,"status":401,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","_id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"Sign in required or bad request to add","saved_in":"log_file.txt","reviewed":false,"status":401,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","_id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"user does not have priviledges to add","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":{"errors":{"updatedBy.username":{"message":"Path `updatedBy.username` is required.","name":"ValidatorError","properties":{"message":"Path `updatedBy.username` is required.","type":"required","path":"updatedBy.username"},"kind":"required","path":"updatedBy.username"},"updatedBy.id":{"message":"Path `updatedBy.id` is required.","name":"ValidatorError","properties":{"message":"Path `updatedBy.id` is required.","type":"required","path":"updatedBy.id"},"kind":"required","path":"updatedBy.id"}},"_message":"user validation failed","message":"user validation failed: updatedBy.username: Path `updatedBy.username` is required., updatedBy.id: Path `updatedBy.id` is required.","name":"ValidationError"},"status":500,"saved_in":"log_file.txt","reviewed":false,"entry":{"firstName":"Moussa","lastName":"Hjej","givenName":"Moussa Hjej","username":"moussa","password":"123123","has":{"create":true,"read":true,"update":true},"createdBy":{"username":"jadrehaoui","id":"5caaa81425882846350a1a3d"}}}
+Date: 16/04/2019
+{"error":"user not found to edit","saved_in":"log_file.txt","reviewed":false,"status":404,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","signedInUser":{"id":"5caaa81425882846350a1a3d","username":"nabih"}}}
+Date: 17/04/2019
+{"error":"user not found to edit","saved_in":"log_file.txt","reviewed":false,"status":404,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","signedInUser":{"id":"5caaa81425882846350a1a3d","username":"nabih"}}}
+Date: 17/04/2019
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":false},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:13
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:48
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:49
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:50
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:50
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:51
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:51
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:52
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:52
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:52
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:53
+{"error":"user does not have priviledges to edit","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"firstName":"Nabih","lastName":"Moustafa","givenName":"Nabih Moustafa","username":"nabih","has":{"dev":true},"signedInUser":{"id":"5cb66f5fbe534313d7c992db","username":"nabih"}}}
+Date: 17/04/2019 - Time: 01:45:53
+{"error":"null to read","saved_in":"log_file.txt","reviewed":false,"status":200,"entry":{"signedInUser":{"id":"5caaa81425882846350a1a3d","username":"jadrehaoui"}}}
+Date: 17/04/2019 - Time: 02:07:14
+{"error":"user does not have priviledges to soft remove","saved_in":"log_file.txt","reviewed":false,"status":403,"entry":{"signedInUser":{"id":"5caaa81425882846350a1a3d","username":"jadrehaoui"}}}
+Date: 17/04/2019 - Time: 02:37:20
